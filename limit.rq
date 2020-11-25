@@ -1,0 +1,7 @@
+#+ endpoint: https://spang.dbcls.jp/sparql
+
+SELECT *
+WHERE {
+  ?s ?p ?o .
+}
+LIMIT 10
